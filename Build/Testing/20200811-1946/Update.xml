@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Update mode="Client" Generator="ctest-3.17.2">
+	<Site>DESKTOP-DM36Q10</Site>
+	<BuildName>Win32-MSBuild</BuildName>
+	<BuildStamp>20200811-1946-Continuous</BuildStamp>
+	<StartDateTime>Aug 11 21:46 ?rodkowoeuropejski czas letni</StartDateTime>
+	<StartTime>1597175163</StartTime>
+	<UpdateCommand>"C:/Program Files/Git/cmd/git.exe" "fetch"</UpdateCommand>
+	<UpdateType>GIT</UpdateType>
+	<Revision>90c492ee02520847debcc7c60c710909f3a034f5</Revision>
+	<EndDateTime>Aug 11 21:46 ?rodkowoeuropejski czas letni</EndDateTime>
+	<EndTime>1597175168</EndTime>
+	<ElapsedMinutes>0</ElapsedMinutes>
+	<UpdateReturnStatus/>
+</Update>

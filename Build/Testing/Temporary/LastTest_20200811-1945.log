@@ -1,0 +1,19 @@
+Start testing: Aug 11 21:45 ?rodkowoeuropejski czas letni
+----------------------------------------------------------
+1/1 Testing: test1
+1/1 Test: test1
+Command: "C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/Debug/HelloWorld.exe"
+Directory: C:/Users/artur/OneDrive/Desktop/HelloWorld/Build
+"test1" start time: Aug 11 21:45 ?rodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Hello World
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test1" end time: Aug 11 21:45 ?rodkowoeuropejski czas letni
+"test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 11 21:45 ?rodkowoeuropejski czas letni

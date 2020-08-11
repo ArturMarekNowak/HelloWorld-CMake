@@ -1,0 +1,29 @@
+﻿     Site: DESKTOP-DM36Q10
+     Build name: Win32-MSBuild
+  Create new tag: 20200811-1945 - Experimental
+  Configure project
+     Each . represents 1024 bytes of output
+      . Size of output: 0K
+  Build project
+     Each symbol represents 1024 bytes of output.
+     '!' represents an error and '*' a warning.
+      . Size of output: 0K
+     0 Compiler errors
+     0 Compiler warnings
+  Test project C:/Users/artur/OneDrive/Desktop/HelloWorld/Build
+      Start 1: test1
+  1/1 Test #1: test1 ............................   Passed    0.01 sec
+  
+  100% tests passed, 0 tests failed out of 1
+  
+  Total Test time (real) =   0.02 sec
+  Performing coverage
+   Cannot find any coverage files. Ignoring Coverage request.
+  Submit files
+     SubmitURL: http://my.cdash.org/submit.php?project=Hello_World_Project
+     Uploaded: C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/Testing/20200811-1945/Configure.xml
+     Uploaded: C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/Testing/20200811-1945/Build.xml
+     Uploaded: C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/Testing/20200811-1945/Test.xml
+     Uploaded: C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/Testing/20200811-1945/Done.xml
+     Submission successful
+  Building Custom Rule C:/Users/artur/OneDrive/Desktop/HelloWorld/CMakeLists.txt

@@ -1,0 +1,10 @@
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/HelloWorld.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/Experimental.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/Continuous.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/Nightly.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/PACKAGE.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/INSTALL.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/RUN_TESTS.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/artur/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/ZERO_CHECK.dir

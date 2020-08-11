@@ -1,0 +1,26 @@
+--- Begin Cleanup ---
+--- End Cleanup ---
+"C:/Program Files/Git/cmd/git.exe" "rev-list" "-n" "1" "HEAD" "--"
+rl-out> 90c492ee02520847debcc7c60c710909f3a034f5
+--- Begin Update ---
+"C:/Program Files/Git/cmd/git.exe" "fetch"
+"C:/Program Files/Git/cmd/git.exe" "rev-parse" "--git-dir"
+rev-parse-out> .git
+FETCH_HEAD> 90c492ee02520847debcc7c60c710909f3a034f5		branch 'master' of https://github.com/ArturMarekNowak/HelloWorld-CMake
+"C:/Program Files/Git/cmd/git.exe" "reset" "--hard" "90c492ee02520847debcc7c60c710909f3a034f5"
+reset-out> HEAD is now at 90c492e Initial Commit
+"C:/Program Files/Git/cmd/git.exe" "rev-parse" "--show-cdup"
+rev-parse-out> 
+"C:/Program Files/Git/cmd/git.exe" "--version"
+version-out> git version 2.26.2.windows.1
+"C:/Program Files/Git/cmd/git.exe" "submodule" "sync" "--recursive"
+"C:/Program Files/Git/cmd/git.exe" "submodule" "update" "--recursive"
+--- End Update ---
+"C:/Program Files/Git/cmd/git.exe" "rev-list" "-n" "1" "HEAD" "--"
+rl-out> 90c492ee02520847debcc7c60c710909f3a034f5
+--- Begin Revisions ---
+"C:/Program Files/Git/cmd/git.exe" "rev-list" "--reverse" "90c492ee02520847debcc7c60c710909f3a034f5..90c492ee02520847debcc7c60c710909f3a034f5" "--" | "C:/Program Files/Git/cmd/git.exe" "diff-tree" "--stdin" "--always" "-z" "-r" "--pretty=raw" "--encoding=utf-8"
+dt-out> 
+"C:/Program Files/Git/cmd/git.exe" "update-index" "--refresh"
+"C:/Program Files/Git/cmd/git.exe" "diff-index" "-z" "HEAD" "--"
+--- End Revisions ---

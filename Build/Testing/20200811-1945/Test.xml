@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20200811-1945-Experimental"
+	Name="DESKTOP-DM36Q10"
+	Generator="ctest-3.17.2"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.27.29110.0"
+	OSName="Windows"
+	Hostname="DESKTOP-DM36Q10"
+	OSRelease=" Personal"
+	OSVersion=" (Build 18363)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="15202"
+	TotalPhysicalMemory="8034"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2591"
+	>
+	<Testing>
+		<StartDateTime>Aug 11 21:45 ?rodkowoeuropejski czas letni</StartDateTime>
+		<StartTestTime>1597175124</StartTestTime>
+		<TestList>
+			<Test>./test1</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test1</Name>
+			<Path>.</Path>
+			<FullName>./test1</FullName>
+			<FullCommandLine>C:\Users\artur\OneDrive\Desktop\HelloWorld\Build\Debug\HelloWorld.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.013038</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\artur\OneDrive\Desktop\HelloWorld\Build\Debug\HelloWorld.exe</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Hello World
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 11 21:45 ?rodkowoeuropejski czas letni</EndDateTime>
+		<EndTestTime>1597175124</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
